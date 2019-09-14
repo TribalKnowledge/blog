@@ -9,7 +9,7 @@ If you've somehow made it here, welcome to a blog about programming. This is our
 Long story short, this is basically a blog, but one that has stuff in it that we want to be able to reference every day. You know, useful things.
 
 ## Who are we (who we are?)
-We a couple of mobile devs, one Android and one iOS, who have worked on some interesting projects, taken some shells in the trenches, and need some reference material that we can easily use to make our jobs easier.
+We are a couple of mobile devs, one Android and one iOS, who have worked on some interesting projects, taken some shells in the trenches, and need some reference material that we can easily use to make our jobs easier.
 
 ## How to contribute
 Caught a typo? See something that is actually *terrible* practice? Want to write a thing about a topic that you have experience in and want to remember? Don't be shy and put up a PR. Hell, you can start a whole new section for whatever language or discipline you'd like to talk about. At the very least we can have an interesting discussion, but probably you have some valuable experience that we don't.
