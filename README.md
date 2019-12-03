@@ -16,4 +16,5 @@ Caught a typo? See something that is actually *terrible* practice? Want to write
 
 ## Where to start
 Highlander.
+[Programming Philosphy](philosophy.md)
 [Feature Development Gotchas](featureDevelopmentGotchas.md)
