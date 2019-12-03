@@ -43,7 +43,7 @@ This is an easy one, but important. It stands for Don't Repeat Yourself, and you
 This principle can also be applied to chunks of code that share many commonalities, though they may not be identical. The places where the bits of code differ should become the parameters that are passed into the new method that encapsulates the shared bits.
 
 ## Comments
-Comments should answer the question _Why is this the way it is?_ If you find yourself having to describe _what_ a piece of code is, that's a potential red flag that the code hasn't been written using the principles described above. What code is should be easily deciphered just by reading it. Naming is one of the more difficult parts of programming, and done right can make reading some code like reading prose, with its purpose and function so painfully obvious that if you read it out loud a five year old could grasp its purpose.
+Comments should answer the question _Why is this the way it is?_ If you find yourself having to describe _what_ a piece of code is, that's a potential red flag that the code hasn't been written using the principles described above. What it is should be easily deciphered just by reading it. Naming is one of the more difficult parts of programming, and done right can make reading some code like reading prose, with its purpose and function so painfully obvious that if you read it out loud a five year old could grasp it.
 
 The _why_ is important so that whoever works on this code in the future can have the right concerns in mind when they change things around. As much as possible the why should also be embodied in whatever tests you write.
 
