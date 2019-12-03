@@ -32,7 +32,7 @@ Logical separation is hard to define when it's too little or too much, but as a 
 
 Keeping the bits relatively small means that those shifts in direction of the product can potentially have a more granular impact on your code, meaning that you can change sometimes a single class to accomodate a new feature.
 
-As a rule of thumb, pretend your new co-worker is an inmate from the local prison with anger management issues and nothing to lose. Write so that they can read it, and you won't get beat.
+A friend once said, "Pretend your new co-worker is an inmate from the local prison with anger management issues and nothing to lose. Write so that they can read it, and you won't get beat."
 
 #### Tech debt.
 Tech debt is a term that describes the difference between what was built, and what is needed now. Concepts start to get overloaded, methods take one or two more parameters than is easily readable or usable. Things aren't as DRY or KISSed as we'd like them to be, and it's making us nervous. Ideally there is enough test coverage that we can be confident that things aren't broken yet, but if we let the tech debt go on unchecked, we will soon have a smoldering pile of code that no one wants to touch anymore. It's important to refactor things as we go to fit the new shape of the world we're creating.
