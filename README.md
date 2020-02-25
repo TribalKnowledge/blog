@@ -15,5 +15,6 @@ We are a couple of mobile devs, one Android and one iOS, who have worked on some
 Caught a typo? See something that is actually *terrible* practice? Want to write a thing about a topic that you have experience in and want to remember? Don't be shy and put up a PR. Hell, you can start a whole new section for whatever language or discipline you'd like to talk about. At the very least we can have an interesting discussion, but probably you have some valuable experience that we don't.
 
 ## Where to start
-Highlander.
+Highlander.  
+[Programming Philosphy](philosophy.md)  
 [Feature Development Gotchas](featureDevelopmentGotchas.md)
